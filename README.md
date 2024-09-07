@@ -24,4 +24,4 @@ structure de donnee vues en Algo
 6-rechercher un element avec un arbre binaire
 7-Enregistrer la BD dans des fichiers 
 4 eme Objectif presentation orale: 
-jean-marie.dembele@ugb.edu.sn(Membre du groupe - MCD choisi) 
+mail du professeur:jean-marie.dembele@ugb.edu.sn 
