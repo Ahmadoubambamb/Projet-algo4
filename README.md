@@ -1,7 +1,6 @@
 # Projet-algo4
 
-          PROJET ALGO 4 2022-2023
-
+          PROJET ALGO4 2022-2023
 =====================================================
 Vous allez simuller le fonctionnement d'un SGBD en utilisant les 
 structure de donnee vues en Algo
