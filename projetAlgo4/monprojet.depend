@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1708211565 source:c:\users\abdoulaye\desktop\tp lc s4\monprojet\main.c
+	"monprojet.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1708196265 c:\users\abdoulaye\desktop\tp lc s4\monprojet\monprojet.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1708211467 source:c:\users\abdoulaye\desktop\tp lc s4\monprojet\monprojet.c
+	"monprojet.h"
+
+1709993928 source:c:\users\dell\desktop\monprojet\main.c
+	"monprojet.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1709986420 c:\users\dell\desktop\monprojet\monprojet.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1709994302 source:c:\users\dell\desktop\monprojet\monprojet.c
+	"monprojet.h"
+

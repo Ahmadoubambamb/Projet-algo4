@@ -1,0 +1,4 @@
+1 DSS  Dakar
+2 HD   Ndjamena
+3 LAX  LosAngeles
+4 MNT  SL
