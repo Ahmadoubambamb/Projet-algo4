@@ -5,15 +5,15 @@
 Vous allez simuller le fonctionnement d'un SGBD en utilisant les 
 structure de donnee vues en Algo
 -Tableau (Operation de tri)
--Enregistrement(Definer les tables de la BD) 
+-Enregistrement(Definir les tables de la BD) 
 -Fichiers(Enregistrer les donnees de BD)
 -Listes chainees (Operation d'Intersection /Suppression)
 -arbres binaire de recherche 
 =======================================================
 1er objectif: Definir un MCD par groupe avec un MLD avec 5 table
 2eme objectif: gerer les contraintes :
-*cle primaire :s'assurer que toutes les cles sont uniques
-*Integriter referentielle:verifier les cles etrangeres (insertion,suppression)
+-cle primaire :s'assurer que toutes les cles sont uniques
+-Integriter referentielle:verifier les cles etrangeres (insertion,suppression)
 3eme objectif :Proposer un Menu pour :
 1-charger la BD (les 5 table) dans des listes chainees a partir des fichiers correspondants
 2-Inserser de nouveaux elements dans les tables 
